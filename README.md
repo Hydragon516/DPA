@@ -1,4 +1,4 @@
-# DATA
-Domain Alignment and Temporal Aggregation for Unsupervised Video Object Segmentation
+# DPA
+Dual Prototype Attention for Unsupervised Video Object Segmentation
 
 ## coming soon!!
