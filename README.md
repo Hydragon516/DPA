@@ -106,4 +106,4 @@ python train_for_DAVIS.py
 See this [link](https://github.com/yongliu20/DAVIS-evaluation).
 
 ## Results 
-TBD
+Ours pre-calculated prediction masks can be downloaded [here](https://drive.google.com/file/d/1JSJ5mIu6Lq8l4aSEcrUAlVsBGdXeGgma/view?usp=drivesdk).
