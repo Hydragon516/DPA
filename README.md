@@ -26,6 +26,10 @@
 <br>
 </div>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-alignment-and-temporal-aggregation-for/unsupervised-video-object-segmentation-on-11)](https://paperswithcode.com/sota/unsupervised-video-object-segmentation-on-11?p=domain-alignment-and-temporal-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-alignment-and-temporal-aggregation-for/unsupervised-video-object-segmentation-on-12)](https://paperswithcode.com/sota/unsupervised-video-object-segmentation-on-12?p=domain-alignment-and-temporal-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-alignment-and-temporal-aggregation-for/unsupervised-video-object-segmentation-on-10)](https://paperswithcode.com/sota/unsupervised-video-object-segmentation-on-10?p=domain-alignment-and-temporal-aggregation-for)
+
 ## Abstract
 Unsupervised video object segmentation (VOS) aims to detect and segment the most salient object in videos. The primary techniques used in unsupervised VOS are 1) the collaboration of appearance and motion information; and 2) temporal fusion between different frames. This paper proposes two novel prototype-based attention mechanisms, inter-modality attention (IMA) and inter-frame attention (IFA), to incorporate these techniques via dense propagation across different modalities and frames. IMA densely integrates context information from different modalities based on a mutual refinement. IFA injects global context of a video to the query frame, enabling a full utilization of useful properties from multiple frames. Experimental results on public benchmark datasets demonstrate that our proposed approach outperforms all existing methods by a substantial margin. The proposed two components are also thoroughly validated via ablative study.
 
